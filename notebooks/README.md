@@ -9,4 +9,4 @@
 - *neuralnet_full.ipynb* : selected model training and evaluation on the full dataset
 - *neuralnet_full-opt2.ipynb* : training and evaluation with optimized model and full dataset
 - *tests\*.ipynb* : variety of tests
-- ***.keras* : trained and evaluated models
+- *\*.keras* : trained and evaluated models
