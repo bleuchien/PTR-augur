@@ -10,5 +10,5 @@ The PTR is different per transcribed gene and per tissue. To find the ratio cost
 
 ## What's Where?
 
-The **data** directory contains the output of the pre-processing Jupyter notebooks.
+The **data** directory contains the raw input and output of the pre-processing Jupyter notebooks.
 The **notebooks** directory contains all the Jupyter notebooks for this project.
