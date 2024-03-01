@@ -12,3 +12,7 @@ The PTR is different per transcribed gene and per tissue. To find the ratio cost
 
 The **data** directory contains the raw input and output of the pre-processing Jupyter notebooks.
 The **notebooks** directory contains all the Jupyter notebooks for this project.
+
+## Why?
+
+This is part of my CS BSc thesis *"Protein-to-mRNA Ratio Prediction from mRNA Sequence using a Deep Neural Network approach"*.
